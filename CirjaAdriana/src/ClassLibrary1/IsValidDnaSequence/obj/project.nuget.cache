@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lxqqqbsDH2kM77hOejqUmuAMigCVf2W8lHufw4g0V+EC5WlVO7bwLp7M+/LW/9RxuiyhLH6vNlu5CBW+tS/LQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adelina\\source\\repos\\CirjaAdriana\\src\\ClassLibrary1\\IsValidDnaSequence\\IsValidDnaSequence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adelina\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Adelina\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
